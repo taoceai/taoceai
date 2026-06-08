@@ -1,0 +1,22 @@
+{
+  "name": "桃策 TAOCE",
+  "short_name": "桃策",
+  "description": "AI应用落地、AI Agent、企业知识库与定制化AI软件服务",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
